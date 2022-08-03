@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
+.tox-tinymce{
+    border-radius: 0px !important;
+}
+.tox-notifications-container{
+    display:none !important
+    }
+
 body {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
